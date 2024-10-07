@@ -1,4 +1,4 @@
-<img src="https://imgur.com/04k9dfY">
+<img src="https://i.imgur.com/04k9dfY.jpeg">
 
 Nasa Space Apps 2024
 Interactive orrery web app
